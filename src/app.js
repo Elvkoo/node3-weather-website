@@ -5,7 +5,7 @@ const forecast = require('../../weather-app/utils/forecast')
 
 const hbs = require('hbs')
 
-//console.log(__dirname)
+
 //console.log(path.join(__dirname, '../public'))
 const app = express()
 
